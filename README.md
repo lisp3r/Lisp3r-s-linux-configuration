@@ -10,3 +10,4 @@ My linux misc configs
 ## Misc
 
 - [nanorc](nanorc)
+- [.zshrc](.zshrc)
